@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# 간단한 투두 리스트 사이트
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
